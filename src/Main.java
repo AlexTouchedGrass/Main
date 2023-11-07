@@ -23,5 +23,6 @@ public class Main {
                 System.out.println(current + " occurs " + count + " time(s).");
             }
         }
+        System.out.println("You have " + uniqueCount + " unique characters.");
     }
 }
